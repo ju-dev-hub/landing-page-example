@@ -1,0 +1,816 @@
+@media(max-width: 575px){
+
+    h4 {
+        padding-left: 19%;
+    } 
+
+    /* APP (max-width: 575px) */
+
+    #background-woman{
+        min-height: 590px;
+        margin-top: 4.3rem;
+    }
+    #background-woman-operator{
+        min-height: 700px;
+        margin-top: 4.3rem;
+    }
+    .white-box {
+        margin-top: -0.5em;
+        margin-bottom: 0em;
+    }
+    .box{
+        margin-bottom: 0rem;
+        margin-top: 0em;
+    }
+    .col-6.payment{
+        padding-left: 0px !important;
+        padding-right: 0px !important
+    }
+    .sc-ifAKCX.ciTvcc{
+        font-size: 10px;
+        margin-left: 10px
+    }
+    .order-email{
+        font-size: 14px;
+    }
+    /* END APP (max-width: 575px) */
+
+    /* NAVBAR COMPONENT (max-width: 575px) */
+
+    .img-input-payment{
+        top: 15px;
+    }
+    .navbar-logo{
+        text-align: center
+    }
+    .logo {
+        width: 8rem;
+    }
+    .buttonNav{
+        display: none;
+    }
+
+    .logout{
+        position: fixed !important;
+        left: 40%;
+        margin-left: 0%;
+    }
+
+    .buttonNav-logout{
+        font-size: 10px
+    }
+
+    .btn-logout{
+        padding-left: 0px !important
+    }
+
+    /* END NAVBAR COMPONENT (max-width: 575px) */
+
+    /* COTATION COMPONENT (max-width: 575px) */
+    #customRadioInline2{       
+        left: -23px;
+   }
+   #customRadioInline1{       
+        left: -23px;
+   }
+    .livein-title{
+        font-size: 13px;
+        padding-left: 1px !important;
+        padding-right: 0px !important
+    }
+    .livein-radio{
+        padding-left: 0px !important
+    }
+    #form-red-box {
+        margin: 3%;
+        padding-top: 1rem
+    }
+    .custom-control.custom-radio{
+        padding-left: 0px !important
+    }
+    .cotation-title{
+        font-size: 180% !important;
+        line-height: 2rem;
+    }
+    .plansOf {
+        padding-top: 3px;
+    }
+
+    .price-half {
+        top: 28px;
+    }
+    .price-title {
+        font-size: 115%;
+    }
+    .size-number {
+        font-size: 190%;
+    }
+
+    .cotation-subtitle{
+        font-size: 115%;
+        line-height: 1.3rem;
+    }
+    #box-cotation-subtitle{ 
+        max-width: 90% !important;        
+    }
+    .cotation-text{
+        font-size: 71%;
+    }
+    .button-cotation{    
+        font-size: 15px !important;   
+    }
+    .img-batata{
+        padding-bottom: 2rem;       
+        width: 50%;        
+    }
+
+    /* END COTATION COMPONENT (max-width: 575px) */
+
+    .coast-title{
+        max-width: none;
+        padding-left: 5%;
+        padding-right: 10%;
+        font-size: 30px;
+    }
+    .coast-subtitle{   
+        max-width: 100% !important;
+        padding-left: 0 !important;  
+        margin-bottom: 4rem;
+    }
+    #box-elements-coast > div > p{
+        font-size: 75%;
+    }
+
+    /* END COAST COMPONENT (max-width: 575px) */
+
+    /* ASSISTANCE COMPONENT (max-width: 575px) */
+
+    .container{
+        max-width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important
+    }
+    .assistance-title {
+        padding-left: 8%;
+        padding-right: 8%;
+        font-size: 30px;
+    }
+    .assistance-subtitle {
+        padding-left: 8%;
+        padding-right: 8%;
+        padding-bottom: 4rem 
+    }
+    .assistance-red-box > strong{
+        font-size: 90%;
+    }
+    .assistance-check{   
+        -webkit-flex: 0 0 50% !important;
+        flex: 0 0 50% !important;
+        max-width: 50% !important;
+    }
+    .assistance-check-text{
+        font-size: 75%;
+        margin-bottom: 15px;
+    }
+    .assistance-btn-cotation{
+        font-size: 82% !important;
+        padding-top: 3rem;
+    }
+    .assistance-button{
+        font-size: 13px !important;
+    }
+    .col-lg-2{
+        -webkit-flex: 0 0 50% !important;
+        flex: 0 0 50% !important;
+        max-width: 50% !important
+    }
+
+    /* END ASSISTANCE COMPONENT (max-width: 575px) */
+
+     /* REWARD COMPONENT (max-width: 575px) */
+
+    .reward-title{
+        text-align: center;
+        padding-top: 3rem
+    }
+    .reward-text{
+        text-align: center
+    }
+    .reward-text-club{
+        text-align: center
+    }
+
+    /* END REWARD COMPONENT (max-width: 575px) */
+
+    /* PEOPLE COMPONENT (max-width: 575px) */
+
+    .text-attest{
+        font-size: 85%;
+    }
+
+    .title-person {
+        font-size: 125%;
+    }
+
+    .avatar {
+        height: 8em !important;
+    }
+
+    /* PEOPLE COMPONENT (max-width: 575px) */
+
+     /* HELP COMPONENT (max-width: 575px) */
+
+    .help-collapse > .collapse.show{
+        padding-left: 0rem;
+    }
+
+    .help-collapse-text{
+        font-size: 16px;
+        max-width: 94%;
+    }
+    .help-title{
+        font-size: 31px;
+    } 
+
+    /* END HELP COMPONENT (max-width: 575px) */
+
+    /* HELP COMPONENT */
+
+    .help-collapse{
+        width: 85%;
+        margin-bottom: 35px;
+        padding-left: 10px;
+    }
+    .container.help{
+        padding-bottom: 3rem
+    }
+    .row.about-btn-cotation.help{
+        padding-top: 1rem !important;
+        padding-bottom: 1rem !important;
+    }
+
+    /* END HELP COMPONENT */
+
+    /* ABOUT COMPONENT (max-width: 575px) */
+
+    #box-assistance{
+        padding-top: 2rem;
+    }
+    .about-white-box{
+        margin-top: 3rem;
+        padding: 3rem;
+    }
+    .about-subtitle{
+        padding-bottom: 1rem;
+    }
+
+    .about-history{
+        padding-top: 1rem;
+    }
+    .about-numbers-mobile {
+        padding-top: 2rem;
+    }
+    .about-button{
+        font-size: 14px !important
+    }
+    .row.about-btn-cotation{
+        max-width: 90%;
+    }
+    .about-numbers{
+        height: 5em;
+    }
+
+    /* END ABOUT COMPONENT (max-width: 575px) */
+
+    /* CONTRACT SCREEN (max-width: 575px) */
+
+    .img-cards {
+        width: 75% !important;
+    }
+    .container-contract > li{
+        font-size: 12.4px;
+    }
+    .btn-contract {
+        max-width: 90% !important;
+        margin-left: 5% !important  
+    }
+    .plan-real {
+        font-size: 67px !important;
+    }
+    .container-price {
+        max-width: 90%;
+        margin-left: 5%;
+        margin-bottom: 6.5%;
+    }
+    .container-price > h3{
+        font-size: 120% !important;
+        padding-left: 6%;
+    }
+    .container-price > div > span {
+        font-size: 180% !important;
+        padding-top: 1.4em;
+    }
+    /* END CONTRACT SCREEN (max-width: 575px) */
+
+    /* COPYRIGHT COMPONENT (max-width: 575px) */
+
+    .copyright-text{
+        font-size: 11px;
+    }
+    
+    /* END COPYRIGHT COMPONENT (max-width: 575px) */    
+
+    /* DETAILS FORM (max-width: 575px) */
+
+    .monthlyIncomeList{       
+        font-size: 11px;  
+        padding-right: 10px;         
+    }
+    .monthlyIncome-row{
+        max-width: 90% !important;
+        margin-left: 11% !important
+    }    
+    .spinner-border.details{    
+        left: 80%;
+        top: 2rem;
+    }
+    .input-range{
+        width: 365px !important;
+    }
+    .form-button{
+        margin-top: 10px;
+    }
+    .form-box-title{
+        font-size: 12px;
+        padding-bottom: 20px;
+    }
+    .form-control{       
+        font-size: 0.7rem !important;
+    }
+    .custom-select{
+        font-size: 0.7rem !important;
+    }
+    .gender-active{
+        font-size: 0.8rem ;
+    }
+    .gender-inactive{
+        font-size: 0.8rem ;
+    }
+    .gender{
+        width: 100%;        
+    }   
+
+    .form-button{       
+        font-size: 13px !important;      
+    }
+
+    /* END DETAILS FORM (max-width: 575px) */
+
+    /* ADDRESS FROM (max-width: 575px) */
+
+    .spinner-border.address{
+        left: 87% 
+    }
+    .spinner-border.zipcode{
+        left: 87%;
+        top: 1rem
+    }
+    #inputPhone.form-control{
+        padding: 1rem 1.75rem !important;
+    }
+    #inputName.form-control{
+        padding: 1rem 1.75rem !important;
+    }
+    #inputEmail.form-control{
+        padding: 1rem 1.75rem !important;
+    }
+    .form-control{
+        padding: 0rem 1rem 0rem 1rem !important;   
+    }
+    .custom-select{
+        padding: 0.375rem 1.75rem 0.375rem 0.95rem !important;
+    }
+
+    /* END ADDRESS FROM (max-width: 575px) */
+
+    /* RESUME LEAD COMPONENT (max-width: 575px) */
+
+    .lead-resume {       
+        margin: 25px 20px;
+        padding-bottom: 10px;
+    }
+    .resume-arrow{        
+        bottom: 400px;    
+    }    
+    .coverage-plan-mobile{
+        display: none;
+    }
+    .fristWord{
+        display: none;
+    }
+    .secondWord{
+        padding-right: 0px;
+    }
+    .lead-plan{
+        font-size: 11px
+    }
+    .lead-parcel{
+        font-size: 11px
+    }
+    .lead-value{
+        font-size: 11px
+    }
+    .lead-total{
+        font-size: 11px
+    }
+
+    /* END RESUME LEAD COMPONENT (max-width: 575px) */    
+    
+    /* COVERAGE SCREEN (max-width: 575px) */
+
+    .container-coverage-screen{
+        padding-left: 0px !important;
+        padding-right: 0px !important; 
+    }
+    .nav-item{
+        padding-right: 5px;
+        width: 70px;
+    }
+    .coverage-box-title{
+        text-align: left;
+        border-right: 1.5px double rgba(193, 192, 192, 0.99); ;
+        border-bottom: none;
+        padding-bottom: 0px;
+        padding-right: 5px !important
+    }
+    .coverage-box-subtitle{
+        text-align: left;  
+    }
+    .collapse-box-subtitle{
+        text-align: left;  
+    }
+    .btn-coverage{      
+        margin-bottom: 10px;      
+        height: 45px;
+        color: #525C66 !important; 
+        box-shadow: none !important;
+        font-size: 13px !important
+    }
+    .btn-coverage-loader{      
+        margin-bottom: 10px;      
+        height: 45px;
+        color: #ffffff !important; 
+        box-shadow: none !important;
+        font-size: 12px !important
+    }
+    .plan-subtitle{      
+        font-size: 11px;
+        text-align: left;
+        width: 120px;
+    }
+    .price-subtitle{
+        font-size: 11px
+    }    
+    .plan-title{
+        font-size: 15px;
+    }
+    .plan-description{        
+        font-size: 12px;
+        padding-bottom: 0px;
+    }
+    .plan-assistence{      
+        font-size: 22px;
+    }
+    .coverage-desktop{
+        display: none;
+    }    
+    .coverage-mobile{
+        display: block;       
+    }
+    .mobile-title-coverage{   
+        color: #525C66;
+        font-size: 14px;
+        font-weight: 700;
+        margin-top: 20px;
+        margin-bottom: -10px;
+    }
+    .title-box-coverage{
+        display: none;
+    }
+    .subtitle-box-coverage{
+        display: none;
+    }
+    .assistence-plus{
+        display: none;
+    }
+    .toggleContent-open{
+        display: block;
+    }
+    .toggleContent-closed{
+        display: none;
+    }
+    .plan-details{  
+        color: #65727A;
+        font-size: 10px;
+        padding-bottom: 10px;
+        cursor: pointer;
+    }
+    .steps {
+        font-size: 11px;
+    }    
+    .plan-coverage{
+        color: #3E4448;
+        font-size: 14px;
+        font-weight: 600;
+        padding: 10px 10px;
+        border-bottom: 1px solid #DCDCDC;
+        border-top: 1px solid #DCDCDC        
+    }
+    .plan-coverage > span{
+        text-transform: uppercase;
+        font-weight: 700;
+        padding-left: 5px
+    }
+    .box-coverage{      
+        padding: 10px !important;
+    }
+    .goback-plans{
+        border-top: 1px solid #DCDCDC;
+        color: #525C66;
+        font-size: 12px;
+        padding: 15px 10px;
+        cursor: pointer;       
+    }
+    .goback-plans:hover{
+       text-decoration: underline  
+    }
+    .list-group-item{
+        padding: 0 !important;
+        border: none !important
+    }   
+    .top-plus-itens{
+        color: #65727A;
+        font-size: 10.5px;
+        font-weight: 600;
+        padding-top: 10px;
+        padding-bottom: 10px
+    }
+    .top-plus-itens .col-6{
+        padding-right: 0px !important;
+        padding-left: 0px !important; 
+    }
+    .top-plus{
+        color: #3E4448;
+        font-size: 14px;
+        font-weight: 700
+    }
+    .assistance-description{
+        font-weight: 600;
+        color: #65727A;
+        font-size: 11px;
+    }
+    .assistance-description-value{
+        font-weight: 600;
+        color: #3E4448;
+        font-size: 11px;
+        text-align: right
+    }
+    .white-box-coverage > .table-coverage > tbody > tr > th{
+        font-size: 12px;
+    }   
+    .white-box-coverage > .table-coverage > tbody > tr > th.text-left{
+        font-size: 12px !important;
+    }    
+   .white-box-coverage {
+        padding: 25px 0px 5px 0px !important;
+        margin-top: 30px;
+    }
+    .collapse-arrow{
+        width: 18px;
+    }
+    .yellow-border{
+        box-shadow: 0.5px 0.5px 3px 0.5px #FFC400;         
+        z-index: -1;
+    }
+    .spinner-border.coverage{
+        top: 1.9rem;
+    }
+    .spinner-border.modal{
+        top: 14.5rem;
+    }
+    .spinner-border.init{
+        top: 15rem;
+        left: 45%;
+    }   
+
+    /* END COVERAGE SCREEN (max-width: 575px) */  
+    .due-date{
+        font-size: 12px;       
+    }
+    .resume-mobile-box{       
+        margin-left: -10% !important;
+        padding-left: 10% !important; 
+    }
+    .spinner-border.credit{       
+        top: 2rem;      
+    }    
+    .digit{    
+        padding-right: 15px !important;
+    }
+    .account{    
+        padding-left: 15px !important;
+    }   
+}
+
+/* WHATSAPP CHAT */
+@media(max-width: 481px){
+    .whatsapp-container{
+        display: block;
+        position: fixed;
+        bottom: 20px;
+        right: 25px;
+        z-index: 1000000;
+    }
+    .whatsapp-icon{
+        width: 60px;
+    }
+    #blip-chat-container{
+        display: none;
+    }    
+}
+
+@media(min-width: 481px){
+    .whatsapp-container{
+        display: none;        
+    }
+    #blip-chat-container{
+        display: block
+    }
+}
+
+/* END WHATSAPP CHAT */
+
+@media(max-width: 466px){    
+    .container-fluid{
+        padding-right: 5px !important;
+        padding-left: 5px !important;
+    }
+     h4{
+        font-size: 120% !important;       
+        padding-left: 5%;        
+    }
+    .monthlyIncomeList{       
+        font-size: 10px;
+        padding-left: 0px;
+        padding-right: 5px;
+    }
+    .monthlyIncome-row{
+        max-width: 100% !important;
+        padding-left: 0% !important;
+        margin-left: 6% !important  
+    }
+    .monthlyIncome{
+        font-size: 14px;    
+    }
+    .input-range {
+        width: 300px !important;
+    }
+
+    /* COTATION COMPONENT (max-width: 466px) */
+
+     #form-red-box {
+        margin: 0%;
+    }
+    .cotation-title {
+        font-size: 160% !important;   
+    }
+    .price-plan-title {
+        min-width: 108px;
+    }
+    .price-plan-title > p{
+        font-size: 60% !important;
+    }
+    .price-title {
+        font-size: 97%;
+    }
+    .size-number {
+        font-size: 175%;
+    }
+    .button-cotation{    
+        font-size: 13px !important;   
+    }
+
+    /* END COTATION COMPONENT (max-width: 466px) */
+
+     /* REWARD COMPONENT (max-width: 466px) */
+    
+    .reward {
+        margin-top: 1rem
+    }
+
+    /* END REWARD COMPONENT (max-width: 466px) */
+
+    /* ABOUT COMPONENT (max-width: 466px) */
+
+    .row.about-btn-cotation{
+        max-width: 100%;
+    }
+    .about-white-box{
+        margin-top: 2rem;
+        margin-left: 0.6rem;
+        margin-right: 0.6rem;
+        bottom: 1rem;
+    }
+    .about-button{
+        font-size: 13px !important
+    }
+
+    /* END ABOUT COMPONENT (max-width: 466px) */
+
+    /* FOOTER COMPONENT (max-width: 466px) */
+
+    .footer-icons {
+        width: 16rem;
+    }
+
+    /* END FOOTER COMPONENT (max-width: 466px) */
+   
+    /* PAYMENT SCREEN (max-width: 466px) */
+
+    .price-box{
+        line-height: 0.9;
+    }
+    .real-value{
+        font-size: 1.3rem;
+    }
+    .price-value{
+        font-size: 2rem;
+    }
+    .box-selector {
+        padding-left: 7% !important;
+        font-size: 1.6rem !important;
+        margin-top: 0.1rem !important
+    }
+    .icon-debit{
+        left: 46%;
+    }
+    .box-debit{
+        padding: 8% 4% 6% 4%;
+    }
+    .input-group.bank{
+        width: 104%;
+    }
+    .bank-agency{
+        margin-right: -8px;
+    }
+
+    /* END PAYMENT SCREEN (max-width: 466px) */
+
+    /* SUCCESS SCREEN (max-width: 466px) */
+
+    .order-title{
+        max-width: 100%;
+        padding-left:0%;
+        padding-bottom: 2rem;
+    }
+    
+    /* END SUCCESS SCREEN (max-width: 466px) */
+
+}
+
+@media(max-width: 375px){
+      .input-range{
+        width: 270px !important;
+    }
+    .coverage-box-subtitle{     
+        margin-top: 0.6rem;
+    }
+    .monthlyIncomeList{       
+        font-size: 10px;
+        padding-left: 0 !important;
+        padding-right: 0vmin !important;
+    }
+    .monthlyIncome-row {        
+        margin-left: 4% !important;
+    } 
+    .cotation-title {
+        font-size: 130% !important;
+    }
+    .cotation-subtitle{
+        font-size: 105%;
+    }
+    .button-cotation{
+        font-size: 12px !important;
+    } 
+    .MuiFormControl-root > label{
+        font-size: 14px !important
+    }   
+}
+
+
+
+
+
+
+
+

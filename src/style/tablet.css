@@ -1,0 +1,1047 @@
+/* END PLUS ASSISTENCE COMPONENT */
+
+@media screen and (max-width: 1075px){
+    #background-woman{       
+        background-size: cover !important;
+    }
+}
+
+@media screen and (max-width: 1199px){
+     .collapse-coverage-value{
+        font-size: 9px;
+    }
+     .collapse-top-plus{
+        font-size: 10px
+    }
+    .collapse-top-itens{
+        font-size: 8px;
+    }      
+    .collapse-coverage{
+        font-size: 9px;
+    }
+    .collapse-plan-description{
+        font-size: 10px
+    }
+    .collapse-title{
+        font-size: 10px
+    }
+     .collapse-plan-title{
+        font-size: 12px
+    }
+    .collapse-plan-subtitle{
+        font-size: 10px
+    }
+    .collapse-plan-assistence{
+        font-size: 19px;
+    }
+    .security-code{
+        padding-right: 0 !important
+   }
+
+    /* .bank-row{
+        max-width: 90%;
+        padding-left: 10%
+    } */
+
+    h6{
+        max-width: 73%;
+        padding-left: 27%;
+    }
+
+    h4{
+        padding-left: 24%
+    }
+
+    .success-row{
+        width: 100%;
+        margin-left: 0;        
+    }
+
+    /* APP max-width: 1199px */
+
+    #background-woman{
+        background-position: 100%;     
+        margin-top: 0rem;
+        min-height: 1030px;       
+    }
+
+    #background-woman-operator{
+        background-position: 100%;     
+        margin-top: 0rem;
+        min-height: 1140px;       
+    }
+
+    .white-box{
+        width: 100% !important;
+        margin-top: 8em;
+        margin-bottom: 5em;
+        padding: 1rem;        
+    }
+
+    /* END APP max-width: 1199px */
+
+    /* NAVBAR COMPONENT (max-width: 1199px) */
+
+    .logo {
+        padding-top: 5px
+    }
+
+
+    .buttonNav{
+        margin-left: 35%;
+        width: 68% !important;
+    } 
+    
+    /* NAVBAR COMPONENT (max-width: 1199px) */
+
+    /* COTATION COMPONET (max-width: 1199px) */
+
+    .spinner-border.cotation{
+        left: 88%;
+        width: 0.8rem !important;
+        height: 0.8rem !important;
+    }
+   
+    .img-batata{
+        width: 40%
+    }
+
+    .box{
+        margin-bottom: 3rem;
+        text-align: center;
+        float: none;
+        padding-left: 6rem;
+        padding-right: 6rem;
+    }
+    
+
+    /* END COTATION COMPONET (max-width: 1199px) */
+
+     /* COAST COMPONENT (max-width: 1199px) */
+
+    .coast-icon {
+        margin-top: 3%;
+    }
+
+     /* END COAST COMPONENT (max-width: 1199px) */
+
+     /* REWARD COMPONENT (max-width: 1199px) */
+
+    .reward-text-box{
+        padding-right: 10% !important;
+    }
+    .reward {
+        margin-top: 2rem;
+    }
+
+    /* END REWARD COMPONENT (max-width: 1199px) */
+
+     /* ABOUT COMPONENT (max-width: 1199px) */
+
+     #background-about{
+         height: 70rem;
+     }
+
+    /* END ABOUT COMPONENT (max-width: 1199px) */
+
+    /* PEOPLE COMPONENT (max-width: 1199px) */
+
+    .text-attest{
+        padding-left: 8px;
+    }
+
+    /* END PEOPLE COMPONENT (max-width: 1199px) */
+
+    /* COVERAGE SCREEN (max-width: 1199px) */
+
+    .white-box-coverage > .table-coverage > tbody > tr > th{
+        font-size: 13px;
+    }
+    .white-box-coverage > .table-coverage > tbody > tr > th.text-left{
+        font-size: 13px !important
+    }   
+    
+    /* END COVERAGE SCREEN (max-width: 1199px) */
+
+    /* CONTRACT SCREEN (max-width: 1199px) */
+
+    .container-contract{   
+        -webkit-box-ordinal-group: 3;
+        -moz-box-ordinal-group: 3;
+        -ms-flex-order: 3;
+        -webkit-order: 3;
+        order: 3;
+    }
+    .form-box-contract{
+        margin: 0 !important;
+        width: 100% !important
+    }
+    .container-assist{
+        margin-top: 1%;
+        padding-left: 5%
+    }
+    .container-coverage{
+        margin-top: 3%;
+        height: 20rem;
+    }    
+    .container-coverage > h6{
+        font-size: 14px;
+        padding-left: 74%;
+    }
+    #collapse-coverages > h6{
+        padding-left: 75%;
+    }
+    .line{
+        font-size: 14px;
+    }
+    .container-info{
+        -webkit-box-ordinal-group: 2;
+        -moz-box-ordinal-group: 2;
+        -ms-flex-order: 2;
+        -webkit-order: 2;
+        order: 2;
+    }
+    .img-cards{
+        width: 50% !important;
+    }
+    .container-contract > li{
+        list-style-type: none;
+    }
+    .container-contract{
+        border-left: none;
+        text-align: center
+    }
+    .return-contract{
+       padding-right: 48%
+    }
+    .btn-contract{
+        max-width: 50% !important;
+        margin-left: 24% !important;
+    }
+    .plan-real{
+        font-size: 70px !important;
+    }
+    .container-price > div > span{
+        font-size: 260% !important;
+        padding-top: 0.8em;
+    }
+    .container-price > h3{
+        font-size: 140% !important;
+        padding-left: 2%;
+    }    
+    .container-price > h5{
+        font-size: 90% !important;
+    }
+    .container-price{
+        max-width: 50%;
+        margin-left: 24%;     
+        -webkit-box-ordinal-group: 1;
+        -moz-box-ordinal-group: 1;
+        -ms-flex-order: 1;
+        -webkit-order: 1;
+        order: 1; 
+    }   
+
+    /* END CONTRACT SCREEN (max-width: 1199px) */
+    
+
+    /* FORM SCREEN (max-width: 1199px) */
+
+    .form-box{
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+    .spinner-border.contact{
+        left: 88% 
+    }
+
+    /* END FORM SCREEN (max-width: 1199px) */
+
+    /* PAYMENT SCREEN (max-width: 1199px) */  
+
+      .box-selector {
+        padding-left: 20% !important;
+    }
+    .payment-resume{       
+        padding: 10px 0px 10px 0px;   
+    }
+    .input-group-text.selected{
+        margin-right: 5px;
+    }
+    .resume-value{
+        padding-right: 5px !important;
+        padding-left: 5px !important
+    }
+
+    /* END PAYMENT SCREEN (max-width: 1199px) */
+
+    /* PAYMENT RESUME COMPONENT */    
+
+    /* END PAYMENT RESUME COMPONENT */
+
+}
+
+@media screen and (max-width: 920px){
+    .coverage-plan-mobile{
+        margin-right: 5px
+    }
+    .due-date{
+        margin-top: 0px
+    }    
+    .payment-resume-mobile{
+        display: block;
+        margin-top: 30px;         
+    }
+    .payment-resume-desktop{
+        display: none;
+    }
+    .resume-mobile-box{
+        background-color: #F0F0F0;
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+        width: 100%;
+        padding-left: 15% !important;
+        margin-left: -14% !important    
+    }
+    .coverage-plan{
+        font-size: 12px;
+    }
+    .number-parcel{
+        font-size: 13px
+    }
+}
+
+@media screen and (max-width: 991px){
+
+    /* PLUS ASSISTENCE COMPONENT */
+    .assistence-plus{
+        padding: 20px;
+    }   
+    /* END PLUS ASSISTENCE COMPONENT */
+  
+    /* APP max-width: 991px */
+
+    #background-woman{    
+        min-height: 950px;
+        margin-top: 0rem
+    }
+    #background-woman-operator{
+        min-height: 1100px;
+        margin-top: 0rem
+    }
+    .white-box{
+        margin-top: 4em;
+    }
+
+    /* END APP max-width: 991px */
+    .gender-mobile{
+        padding-left: 0%
+    }
+
+    /* NAVBAR COMPONENT (max-width: 991px) */
+
+    .logo {
+        width: 40%;
+    }
+    .buttonNav{
+        margin-left: 6%;
+        width: 90% !important;
+    }
+    .navbar{
+         height: 60px !important;
+    }
+    .navbar-form{
+        height: 60px !important;
+    }
+    .logout{
+        margin-left: 20%
+    }  
+
+    /* END NAVBAR COMPONENT (max-width: 991px) */
+
+     /* COTATION COMPONET (max-width: 991px) */   
+
+    .white-box{       
+        margin-bottom: 4em;
+       
+    }
+    .box{      
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    /* END COTATION COMPONET (max-width: 991px) */
+    
+    /* COAST COMPONENT (max-width: 991px) */
+
+    .coast-title{
+        text-align: center;
+        max-width: 80%;
+        padding-left: 20%;
+        margin-bottom: 3%;
+        padding-top: 3rem
+    }
+    .coast-subtitle{
+        text-align: center;
+        max-width: 80%;
+        padding-left: 20%;
+        margin-bottom: 4rem !important
+    }
+    #box-elements-coast > div > p{
+        margin-top: 5%;
+    }
+
+    /* END COAST COMPONENT (max-width: 991px) */
+
+    /* ASSISTANCE COMPONENT (max-width: 991px) */
+
+    #background-assistance{
+        background-position: 25% 99%;
+    }
+    .assistance-red-box.red{
+        -webkit-flex: 0 0 100% !important;
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+    .assistance-btn-cotation{
+        padding-top: 1rem;
+    }
+    .assistance-button{
+        width: 80% !important;
+    }
+    .col-lg-2 {
+        -webkit-flex: 0 0 33.333333% !important;
+        flex: 0 0 33.333333% !important;
+        max-width: 33.333333% !important;
+    }
+
+    /* END ASSISTANCE COMPONENT (max-width: 991px)  */
+
+    /* HELP COMPONENT (max-width: 991px) */
+
+    .help-collapse > .collapse.show{
+        padding-left: 1rem;
+    }
+
+    /* END HELP COMPONENT (max-width: 991px) */
+
+    /* REWARD COMPONENT (max-width: 991px) */
+
+    .reward-text-box{
+        padding-right: 8% !important;
+    }
+
+    /* END REWARD COMPONENT (max-width: 991px) */        
+
+    /*  COVERAGE SCREEN (max-width: 991px) */  
+
+    .title-box-coverage{
+        padding-top: 3rem !important;
+    }
+    .white-box-coverage > .table-coverage > tbody > tr > th{
+        font-size: 13px;
+    }   
+    .white-box-coverage > .table-coverage > tbody > tr > th.text-left{
+        font-size: 13px !important;
+    }
+    .btn-coverage-loader{
+        font-size: 11px;
+    }
+    
+    /* END COVERAGE SCREEN (max-width: 991px) */
+
+    /* RESUME LEAD COMPONENT (max-width: 991px) */
+
+    .lead-name{
+        font-size: 16px
+    }
+
+     /* END RESUME LEAD COMPONENT (max-width: 991px) */
+
+     /* DETAILS FORM (max-width: 991px) */
+
+     .spinner-border.details{    
+        left: 85% ;
+    }
+    .form-box-title{
+        font-size: 15px
+    }
+    .gender{
+        width: 70%;
+    }
+
+    /* END DETAILS FORM (max-width: 991px) */
+
+    /* ADDRESS FORM (max-width: 991px) */
+
+    .spinner-border.zipcode{        
+        left: 90%;
+    }
+    .spinner-border.address{        
+        left: 90%;
+    }
+    
+    /* END ADDRESS FORM (max-width: 991px) */
+
+    /* PAYMENT SCREEN (max-width: 991px) */
+    .resume-total{
+        margin-right: 5px
+    }
+    .collapse-plan-subtitle{
+        font-size: 10px;
+    }
+    /* END PAYMENT SCREEN (max-width: 991px) */
+
+}
+
+@media screen and (max-width: 767px){
+    #number.text-truncate{
+        margin-bottom: 10px
+    }
+    .security-code{
+        padding-right: 15px !important
+   }
+    #number{
+        margin-right: -7px !important
+    }
+    #complement{
+        margin-left: -7px !important
+    }
+/*     
+    .bank-row{
+        max-width: 100%;
+        padding-left: 0%
+    } */
+
+    .account{
+        padding-right: 2px !important
+    }    
+    .agency{
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+    }    
+    .digit{    
+        padding-right: 0px !important;
+    }
+    .account{    
+        padding-left: 0px !important;
+    }
+    h5{
+        font-size: 3.5vmin !important;
+    }
+    h6{
+        font-size: 3.25vmin !important;
+    }    
+    .col-9 > h4{
+        padding-right: 70.5%;
+    }
+    .spinner-border{    
+        left: 87%  
+    }
+    .link-return{
+        padding-bottom: 3rem;
+    }
+
+    /* NAVBAR COMPONENT (max-width: 767px) */
+
+    .logo {
+        width: 60%;
+        padding-top: 0.3rem;
+    }
+    .buttonNav{
+        margin-left: 0%;
+        width: 110% !important;
+        font-size: 14px;
+        padding-top: 7px;
+    }
+    .ReactModal__Content[role = 'dialog']{
+        left: 5% !important;
+        right: 5% !important;
+    }
+
+    /* END NAVBAR COMPONENT (max-width: 767px) */
+
+    /* RESUME LEAD COMPONENT (max-width: 767px) */
+
+    .resume-arrow{
+        display: block;
+        right: 10%;
+       bottom: 380px;    
+    }
+    .lead-name{
+        font-size: 14px
+    }
+    .lead-plan{
+        font-size: 12px
+    }
+    .lead-parcel{
+        font-size: 12px
+    }
+    .lead-total{
+        font-size: 12px
+    }
+    .lead-value{
+        font-size: 12px
+    }
+
+     /* END RESUME LEAD COMPONENT (max-width: 767px) */
+
+    /* COTATION COMPONENT (max-width: 767px) */
+
+     .cotation-title{
+        font-size: 190% !important;
+    }
+    .price-plan-title{
+        min-width: 125px;
+    }
+    .price-plan-title > p{
+        font-size: 67% !important;
+    }
+    .price-title{
+        font-size: 160%; 
+    }
+    .size-number{
+        font-size: 39px; 
+    }
+    .cotation-subtitle{
+        font-size: 160%;
+    }
+    .box{
+        padding-left: 0rem;
+        padding-right: 0rem;
+    }
+    #background-woman{    
+        min-height: 965px;
+    }   
+
+    /* END COTATION COMPONENT (max-width: 767px) */
+
+    /* ASSISTANCE COMPONENT (max-width: 767px) */
+
+    .assistance-title{
+        padding-left: 3%;
+        padding-right: 3%
+    }
+    .assistance-subtitle{
+        padding-left: 3%;
+        padding-right: 3%
+    }
+    .assistance-red-box  > div{   
+        max-width: 100% !important;
+        padding-left: 0%
+    }
+    .horizontal-line{
+        display: none;
+    }
+    .col-lg-2{
+        -webkit-flex: 0 0 25% !important;
+        flex: 0 0 25% !important;
+        max-width: 25% !important
+    }
+
+    /* END ASSISTANCE COMPONENT (max-width: 767px)  */
+
+    /* REWARD COMPONENT (max-width: 767px) */
+
+    .reward{
+        text-align: center !important
+    }
+    .reward-link{
+        text-align: center;
+        padding-bottom: 4rem;
+    }
+
+    /* END REWARD COMPONENT (max-width: 767px) */
+
+    /* HELP COMPONENT (max-width: 767px) */
+
+    .help-collapse-text{
+        font-size: 110%;
+    }
+    .help-collapse > .collapse.show {    
+        padding-left: 0.2rem;
+    }
+    .row.about-btn-cotation.help{
+        max-width: 90%;
+    }
+
+    /* END HELP COMPONENT (max-width: 767px) */
+
+    /* ABOUT COMPONENT (max-width: 767px) */
+
+    #background-about{
+        background-image: none;
+        background-color: #FDC300;
+        height: auto !important;        
+    }
+    .row.about-btn-cotation{
+        max-width: 80%;
+    }
+    .about-white-box{
+        margin-left: 1rem;
+        margin-right: 1rem;
+        margin-top: 3rem;
+        bottom: 1.5rem;
+    }
+    .about-numbers{
+        height: 3.5em;
+    }
+
+    /* END ABOUT COMPONENT (max-width: 767px) */
+
+    /* REWARD COMPONENT (max-width: 767px) */
+
+    .reward-text-box{
+        text-align: center;
+        padding-right: 8% !important;
+        padding-left: 8% !important;
+    }
+    .reward-title{
+        text-align: center;
+        font-size: 30px; 
+    }
+    .reward-line{
+        width: 100%;
+    }
+    .reward-subtitle{     
+       text-align: center  
+    }
+    #background-family{
+          display: none;
+    }
+
+    /* END REWARD COMPONENT (max-width: 767px) */
+
+    /* PEOPLE COMPONENT (max-width: 767px) */
+
+    .white-box-people {
+        max-height: 1093px;
+        margin-top: 5%;
+    }
+    .people-desktop{
+        display: none;
+    }
+    .people-mobile{
+        display: none;
+    }
+
+    /* END PEOPLE COMPONENT (max-width: 767px) */
+    
+    /* COVERAGE SCREEN (max-width: 767px) */
+
+    .btn-coverage-loader{
+        font-size: 13px;
+    }
+    .container-coverage-screen > .white-box-coverage >
+    .table-coverage > tbody > tr > th > img{
+        height: 11px;
+    }
+    .container-coverage-screen{
+        padding-top: 0rem !important;  
+    }
+
+    /* END COVERAGE SCREEN (max-width: 767px) */
+
+    /* STEPS COMPONENT */
+
+    .nav-item {
+        width: 90px;
+    }    
+    .steps{
+        font-size: 12px;        
+    }
+    /* END STEPS COMPONENT */
+    
+    /* DETAILS SCREEN (max-width: 767px) */
+    #orago-emissor{
+        margin-top: 10px
+    }   
+    .gender{
+        border-bottom: none;
+        margin-top: 5px !important;
+        margin-bottom: 0px
+    }
+    /* END DETAILS SCREEN (max-width: 767px) */
+    
+    /* CONTRACT SCREEN (max-width: 767px) */
+
+    .red-box-contract{
+       padding-top: 30px !important;
+       padding-left: 0px !important;
+       padding-right: 0px !important;
+    }
+    .desktop-container{
+        display: none;
+    }
+    .container-assist{
+        position: relative;
+        padding-left: 1rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        min-height: -webkit-max-content;
+        min-height: -moz-max-content; 
+        min-height: max-content;
+        margin-bottom: 3%;
+        overflow: hidden;
+    }
+    .container-assist > h2{
+        float: left;
+    }
+    .container-assist > li{
+        display: none;
+    }
+    .mobile-container{
+        display: block;
+    }
+    .colapse {
+        display: block !important;
+        overflow: hidden;
+        -webkit-transition: all 200ms ease;
+        transition: all 200ms ease;
+        float: right;
+        margin-right: 4%;
+    }
+    .colapse:hover {
+        height: auto;
+    }
+    .colapse[aria-expanded = "true"] {
+        transform-origin: center center;
+        transform: rotate(45deg);
+        transition: 300ms
+    }
+    .colapse[aria-expanded = "false"] {
+        transform-origin: center center;
+        transform: rotate(0deg);
+        transition: 300ms
+    }
+    .collapse.show{
+        padding-bottom: 1rem;
+        text-align: left
+    }
+    .container-coverage{
+        position: relative;
+        padding-left: 1rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;  
+        min-height: max-content;
+        margin-bottom: 3%;
+        overflow: hidden;
+        height: auto;
+        text-align: -webkit-left;
+        text-align: left;
+    }
+    .container-coverage > h2{
+        float: left;
+    }
+    .container-coverage > div.row{
+        display: none;
+    }
+    .container-coverage > h6{
+        display: none;
+    }
+    .colapse-coverage {
+        display: block !important;
+        overflow: hidden;
+        -webkit-transition: all 200ms ease;
+        transition: all 200ms ease;
+        float: right;
+        margin-right: -1%      
+    }
+    .colapse-coverage[aria-expanded = "true"]{
+         transform-origin: center center;
+        transform: rotate(45deg);
+        transition: 300ms
+    }
+    .colapse-coverage[aria-expanded = "false"]{
+        transform-origin: center center;
+        transform: rotate(0deg);
+        transition: 300ms
+    }
+    .line > .col-8{
+        padding-left: 5px !important
+    }
+    .line {
+        font-size: 13px;
+        text-align: left;
+    }
+    .line p{
+       margin-bottom: 0.3rem !important;
+       margin-top: 0.3rem !important;
+    }
+    .container-contract{
+        text-align: center !important;
+        border: none
+    }
+    .container-contract > li{
+        list-style-type: none;
+        font-size: 14px;
+    }
+    .return-contract{
+       padding-right: 45%     
+    }
+    .btn-contract {
+        max-width: 66% !important;
+        margin-left: 18% !important;
+    }
+    .container-price{
+        padding-left: 4%;
+        padding-bottom: 0%;
+        margin-bottom: 2.5%;
+        height: auto;
+    }
+    .container-price > h3{
+        margin: 0 !important;
+        margin-bottom: -50px !important;
+        margin-top: 5% !important;
+        padding-left: 6%;
+    }  
+
+    /* END CONTRACT SCREEN (max-width: 767px) */
+
+    /* FORM SCREEN (max-width: 767px) */
+
+    .form-box{
+        margin: 0
+    }   
+    .form-box-red{
+        height: auto;
+        min-height: -webkit-fill-available;
+        padding: 5px;
+    }
+
+    /* CONTACT FORM (max-width: 767px) */
+
+    .form-box-title-contact{
+        padding-top: 10%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .form-box-subtitle{ 
+        font-size: 80%   
+    }
+
+    /* END CONTACT FORM (max-width: 767px) */
+
+    /* ADDRESS FROM (max-width: 767px) */
+
+    .spinner-border.address{
+        left: 92% 
+    }
+    .spinner-border.zipcode{
+        left: 92% 
+    }
+
+    /* END ADDRESS FROM (max-width: 767px) */
+
+    /* END FORM SCREEN (max-width: 767px) */
+
+    /* PAYMENT SCREEN (max-width: 767px) */
+  
+    .nav-tabs .nav-link.active{    
+        font-size: 10px !important;
+        width: 110px !important;
+        padding-top: 8px !important;
+    }
+    .nav-tabs .nav-link[aria-selected = false]{
+        width: 110px !important; 
+        font-size: 10px !important;
+        padding-top: 8px !important;
+    }
+    /* END PAYMENT SCREEN (max-width: 767px) */
+
+    /* SUCCESS SCREEN (max-width: 767px) */
+
+    .box-success{   
+        margin-top: 1rem;
+        padding: 10%;   
+    }
+    .footer-success{
+        margin-top: 3rem
+    }
+
+     /* END SUCCESS SCREEN (max-width: 767px) */   
+    .number-parcel{
+        font-size: 12px
+    }
+    .Toastify__toast-body {    
+        font-size: 12px !important;
+        text-align: center !important;
+    }
+
+}
+
+@media(max-width: 676px){ 
+
+    .gender{
+        margin-bottom: 0px !important;
+    }
+    #field-wrapper{
+        margin-top: 30px
+    }    
+    .payment-title{
+       display: none;
+    }
+    #bank{
+        margin-top: 30px
+    }
+    .form-box-title.payment{
+        display: none;
+     }
+    .collapse-payment{
+        width: 160%;
+    }
+    .resume-parcel{
+        font-size: 20px;
+    }
+    .link-return{
+        font-size: 12px;
+    }
+    .collapse-x{
+        font-size: 10px;
+    }
+    .collapse-plan-subtitle{
+        font-size: 9px;
+    }
+    .collapse-plan-price{
+        font-size: 9px;
+    }   
+    .list-group-item{
+        font-size: 9px;
+    }
+    .lead-plan-value{
+        font-size: 20px;
+    }   
+    .input-group-text{
+        padding: 0.26rem 0.7rem !important;
+        margin-right: 5px;
+    }    
+    .resume-total{
+        font-size: 10px;
+    }
+    .number-parcel{
+        font-size: 11px;
+    }    
+    .box-selector {
+        padding-left: 20% !important;    
+    }
+    .box-card {
+        padding: 8% 6% 6% 7%;
+    }
+    .box-debit {
+        padding: 8% 6% 6% 7%;
+    }
+    .btn-text{
+        font-size: 19px;
+    }
+    .container-price{
+        max-width: 66%;
+        margin-left: 18%;
+    }
+    .assistence-plus{
+        padding: 10px;
+    }
+    .assistence-plus-title{
+        font-size: 12px;
+    }
+}
+

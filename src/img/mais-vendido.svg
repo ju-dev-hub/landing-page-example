@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="42.109" viewBox="0 0 150 42.109">
+  <defs>
+    <filter id="União_1" x="0" y="0" width="150" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_40" data-name="Grupo 40" transform="translate(-5 -652.391)">
+    <g transform="matrix(1, 0, 0, 1, 5, 652.39)" filter="url(#União_1)">
+      <path id="União_1-2" data-name="União 1" d="M132.923,0,144,16,132.923,32ZM0,32V0H132.923V32Z" transform="translate(3 1)" fill="#ffc400"/>
+    </g>
+    <text id="Mais_vendido_" data-name="Mais vendido!" transform="translate(32 675)" fill="#fff" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Mais vendido!</tspan></text>
+    <path id="Caminho_19" data-name="Caminho 19" d="M438,680l10,10V680Z" transform="translate(-430 4.5)" fill="#d9a700"/>
+  </g>
+</svg>

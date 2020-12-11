@@ -1,0 +1,20 @@
+{
+  "short_name": "segure.ai",
+  "name": "segure.ai",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon_mobile.ico",
+      "sizes": "24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#D90016",
+  "background_color": "#d8d8d8"
+}
