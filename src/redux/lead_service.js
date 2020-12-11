@@ -20,7 +20,7 @@ export default class LeadService {
                 media: media,
                 urlOrigin: url
             }
-            return await this.service.post(operatorRequest, `${process.env.REACT_APP_API_MAPFRE}/lead/create`)
+            return await this.service.post(operatorRequest, `${process.env.REACT_APP_API_BATATA}/lead/create`)
         }
         else {
             let request = {
@@ -31,14 +31,14 @@ export default class LeadService {
                 stepName: stepName,
                 quote: quote
             }
-            return await this.service.post(request, `${process.env.REACT_APP_API_MAPFRE}/lead/create`)
+            return await this.service.post(request, `${process.env.REACT_APP_API_BATATA}/lead/create`)
         }
     }
 
     update = async (id = null, userInfo = null) => {
         this.service = new Service()
         const request = userInfo
-        return await this.service.post(request, `${process.env.REACT_APP_API_MAPFRE}/lead/update/${id}`)
+        return await this.service.post(request, `${process.env.REACT_APP_API_BATATA}/lead/update/${id}`)
     }
 
     findLead = async (id) => {
@@ -46,7 +46,7 @@ export default class LeadService {
         const request = {
             id: id
         }
-        return await this.service.post(request, `${process.env.REACT_APP_API_MAPFRE}/lead/find/${id}`)
+        return await this.service.post(request, `${process.env.REACT_APP_API_BATATA}/lead/find/${id}`)
     }
 
     getAddress = async (zipcode = null, idUser = null) => {
@@ -54,7 +54,7 @@ export default class LeadService {
             zipcode: zipcode,
             idUser: idUser
         }
-        return await this.service.post(request, `${process.env.REACT_APP_API_MAPFRE}/address/get`)
+        return await this.service.post(request, `${process.env.REACT_APP_API_BATATA}/address/get`)
     }
 
     signIn = async (login = null, password = null) => {
@@ -62,7 +62,7 @@ export default class LeadService {
             login: login,
             password: password,
         }
-        return await this.service.post(request, `${process.env.REACT_APP_API_MAPFRE}/sign-in`)
+        return await this.service.post(request, `${process.env.REACT_APP_API_BATATA}/sign-in`)
     }
 
     logged = async (hostname = null, username = null, freeMemory = null, cpus = {}, ip = null, key = null) => {
@@ -74,7 +74,7 @@ export default class LeadService {
             ip: ip,
             key: key
         }
-        return await this.service.post(request, `${process.env.REACT_APP_API_MAPFRE}/user/logged`)
+        return await this.service.post(request, `${process.env.REACT_APP_API_BATATA}/user/logged`)
     }
 
     sendEmail = async (email = null, name = null, id = null) => {
@@ -83,7 +83,7 @@ export default class LeadService {
             name: name,
             id: id
         }
-        return await this.service.get(request, `${process.env.REACT_APP_API_MAPFRE}/lead/email`)
+        return await this.service.get(request, `${process.env.REACT_APP_API_BATATA}/lead/email`)
     }
 
     getClientId = async (id = null, operator = null, media = null) => {
@@ -93,7 +93,7 @@ export default class LeadService {
                 key: media.toLowerCase()
             }
         }
-        return await this.service.post(request, `${process.env.REACT_APP_API_MAPFRE}/lead/update-operator/${id}`)
+        return await this.service.post(request, `${process.env.REACT_APP_API_BATATA}/lead/update-operator/${id}`)
     }
 
 }

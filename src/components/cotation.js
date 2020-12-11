@@ -23,7 +23,7 @@ import '../style/tablet.css'
 import '../style/mobile.css'
 
 // Import Images
-import mapfreGarantido from '../img/mapfreGarantido.svg'
+import batataGarantido from '../img/batataGarantido.svg'
 import baselinePeople from '../img/baselinePeople.svg'
 import baselineEmail from '../img/baselineEmail.svg'
 import phone from '../img/phone.svg'
@@ -304,7 +304,7 @@ class Cotation extends Component {
                                                                                                                                                                                 <
                                                                                                                                                                                     img className="img-batata"
                                                                                                                                                                                     src={
-                                                                                                                                                                                        mapfreGarantido
+                                                                                                                                                                                        batataGarantido
                                                                                                                                                                                     }
                                                                                                                                                                                     alt="Imagem Garantido por BATATA" />
                                                                                                                                                                                 <

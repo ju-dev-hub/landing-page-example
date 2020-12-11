@@ -17,7 +17,7 @@ import '../../style/tablet.css'
 import '../../style/mobile.css'
 
 // Import Images
-import mapfreLogo from '../../img/mapfre_logo.png'
+import batataLogo from '../../img/batata_logo.png'
 import successIcon from '../../img/icon_success.svg'
 
 class Success extends Component {
@@ -78,7 +78,7 @@ class Success extends Component {
                     </div>
                     <div className="success-row"></div>
                     <div className="mt-5 text-center">
-                        <img className="img-success" src={mapfreLogo} alt="Logo da Batata" />
+                        <img className="img-success" src={batataLogo} alt="Logo da Batata" />
                     </div>
                 </div>
                 <div className="col-12 footer-success" id="background-footer">

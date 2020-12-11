@@ -17,7 +17,7 @@ import '../style/tablet.css'
 import '../style/mobile.css'
 
 // Import Images
-import mapfreGarantido from '../img/mapfreGarantido.svg'
+import batataGarantido from '../img/batataGarantido.svg'
 import baselinePeople from '../img/baselinePeople.svg'
 import baselineEmail from '../img/baselineEmail.svg'
 import phone from '../img/phone.svg'
@@ -285,7 +285,7 @@ class OperatorCotation extends Component {
                             : null
                         }
                         <div className="col-12 pt-4 text-center">
-                            <img className="img-batata" src={mapfreGarantido} alt="Imagem Garantido por BATATA" />
+                            <img className="img-batata" src={batataGarantido} alt="Imagem Garantido por BATATA" />
                         </div>
                     </form>
                 </div>
